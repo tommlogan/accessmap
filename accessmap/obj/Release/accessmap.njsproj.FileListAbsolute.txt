@@ -1,0 +1,2 @@
+B:\research\urban_data\accessmap\accessmap\accessmap\obj\Release\accessmap.njsproj.CoreCompileInputs.cache
+B:\research\urban_data\accessmap\accessmap\accessmap\bin\Microsoft.NodejsTools.WebRole.dll

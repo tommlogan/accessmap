@@ -6,8 +6,8 @@ var citySelector = document.getElementById('citySelector');
 
 var dataSelector = document.getElementById('dataSelector');
 
-var urlDistricts = '../assets/data/district_data.json';
-var urlNeighborhoods = '../assets/data/neighborhood_data.json';
+var urlDistricts = './assets/data/district_data.json';
+var urlNeighborhoods = './assets/data/neighborhood_data.json';
 
 var dataUrl = urlDistricts;
 
